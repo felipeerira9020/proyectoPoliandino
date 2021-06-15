@@ -1,3 +1,3 @@
 # proyectoPoliandino
-Luis Felipe Erira Correa - Andrea Orozco Ramirez
-Herramientas utilizadad (Html - Css)
+# Luis Felipe Erira Correa - Andrea Orozco Ramirez
+# Herramientas utilizadas (Html - Css)
