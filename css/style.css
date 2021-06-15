@@ -1305,7 +1305,12 @@ font-size: 1.7rem;
 /*TODO: Modelo adaptativo mobil*/
 @media screen and (max-width: 720px) {
 .img-main>div{
-    width: 50%;
+    margin-top: 0;
+    width: 70%;
+    
+}
+.contador{
+    gap: 60px;
 }
 .iconos{
     gap: 10px;
